@@ -1,0 +1,54 @@
+.pics{
+    display: flex;
+    padding-left: 200px;
+    
+    
+    
+}
+.product1{
+    display: flex;
+    padding: 50px  80px 50px 80px;
+    padding-left: 200px;
+}
+
+.product2{
+    height: 100px;
+    width: 100px;
+    margin-top: 60px;
+    margin-left: 240px;
+}
+
+.details{
+    padding: 50px  80px 50px 80px;
+    margin-top: 20px;
+    background-color: lightblue;
+    border-style:solid;
+    border-color: #92a8d1;
+
+}
+
+.connect{
+    text-align: center;
+    margin-left: 600px;
+}
+
+.bi-wallet2{
+    margin-top: 25px;
+    width: 100px;
+    margin-left: 10px;
+    height: 5px;
+
+    
+}
+
+.active{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.d-flex{
+    margin-left: 30px;
+    height: fit-content;
+    margin-top: 15px;
+    width: 400px;
+}
